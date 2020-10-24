@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fXOJcl4WXhoOgg93O0QfVZ5ouIMH94dv8RYax6DoYlsDhjT/93BOXKuH3OPIp3KfMSf8RfkCgtc/av64pfkCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\Desktop\\SoftUni\\C# Web Basics\\C# WebBasic ExamPreparation\\CSharp-Web-Basics-Exam-Preparation-Resources (1)\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

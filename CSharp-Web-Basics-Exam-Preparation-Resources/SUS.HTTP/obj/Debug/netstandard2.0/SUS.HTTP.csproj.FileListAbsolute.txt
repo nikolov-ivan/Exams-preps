@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Ivan\Desktop\Desktop\SoftUni\C# Web Basics\C# WebBasic ExamPreparation\CSharp-Web-Basics-Exam-Preparation-Resources (1)\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
